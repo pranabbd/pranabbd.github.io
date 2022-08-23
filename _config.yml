@@ -221,7 +221,7 @@ scholar:
 
   raw_bibtex_entry: 
   bibtex_filters:
-    - pandoc
+   # - pandoc
     - markdown
     - superscript
     - latex
