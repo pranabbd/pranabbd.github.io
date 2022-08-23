@@ -21,9 +21,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ICMEL                          # the main title
+title: Sarker's Materials Simulation Lab                          # the main title
 
-tagline: Integrated Computional Materials Engineering Lab  # it will display as the sub-title
+tagline: An Integrated Computional Materials Engineering Framework  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -80,10 +80,10 @@ theme_mode:  #[light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/img/logo2.pdf'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -199,3 +199,38 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-toc
+  - "jekyll/scholar"
+
+scholar:
+  style: ./_bibliography/apa.csl #modern-language-association                #./_bibliography/styles/american-physics-society.csl
+  locale: en
+
+  sort_by: year, month
+  order: descending
+  bibliography_list_attributes:
+    reversed: "reversed" # This reverses the numbering of publications in the sorted group.
+
+  source: ./_bibliography
+  bibliography: peer_rev_papers
+  bibliography_template:  "<abbr>{{}}</abbr>{{reference | replace_first: 'Sarker, P.', '<b>Sarker, P.</b>' | replace_first: 'Sarker, Pranab', '<b>Sarker, P.</b>'}}"
+
+  raw_bibtex_entry: 
+  bibtex_filters:
+    - pandoc
+    - markdown
+    - superscript
+    - latex
+  
+  replace_strings: true
+  join_strings:    true
+
+  query: "@*"
+
+# Ideal image slider
+iis_slider_array: []
+
