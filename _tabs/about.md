@@ -7,7 +7,7 @@ iis_slider_active: true
 
 First and foremost, I am a computational materials scientist, and multiscale simulation is my research tool. Using the tool, I both design and characterize materials. My research covers various topics, ranging from solar energy conversion (PV and PEC) and ultra-high temperature ceramics (UHTCs) to bio-nano interface and antibiofouling coating. Multinary-oxides and chalcogenides, high-entropy ceramics, zwitterionic polymers, and 2D-hybrid perovskites are my current interests. Please click ```Research``` below to explore my research in detail.
 
-[**Welcome**](http://localhost:4000/posts/hello-icmel/) | [**Research**](http://localhost:4000/posts/research/) | [**Publications**](http://localhost:4000/posts/publications/) | [**Codes**](http://localhost:4000/posts/codes/) | [**CV**](/cv_ps.pdf) | [**Resume**](/resume_ps.pdf)
+[**Welcome**](https://pranabbd.github.io/posts/hello-icmel/) | [**Research**](https://pranabbd.github.io/posts/research/) | [**Publications**](https://pranabbd.github.io/posts/publications/) | [**Codes**](https://pranabbd.github.io/posts/codes/) | [**CV**](/cv_ps.pdf) | [**Resume**](/resume_ps.pdf)
 
 {% slider %}
   ![alt text 1](/img/1.jpg)
