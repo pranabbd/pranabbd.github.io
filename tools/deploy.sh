@@ -118,7 +118,7 @@ deploy() {
 
 main() {
   init
-  build
+  build --trace
   test
   resume_site_dir
 
