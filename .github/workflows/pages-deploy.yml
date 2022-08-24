@@ -25,9 +25,6 @@ jobs:
           ruby-version: '3.0'
           bundler-cache: true
 
-      - name: Build
-        run: bundle exec ruby rake    
-
       - uses: docker://pandoc/latex:2.17
         with:
           args: "--help" # gets appended to pandoc command
