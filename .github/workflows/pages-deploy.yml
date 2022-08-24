@@ -25,5 +25,16 @@ jobs:
           ruby-version: 2.7
           bundler-cache: true
 
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: docker://pandoc/latex:2.17
+        with:
+          args: "--help" # gets appended to pandoc command
+
+          - uses: docker://pandoc/core:2.9   
+    - name: Build
+      run: bundle exec ruby build.rb    
+
       - name: Deploy
         run: bash tools/deploy.sh

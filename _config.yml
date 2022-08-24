@@ -83,7 +83,7 @@ theme_mode:  [dark] #[light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/img/logo2.pdf'
+avatar: '/img/logo2.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -221,7 +221,7 @@ scholar:
 
   raw_bibtex_entry: 
   bibtex_filters:
-    #- pandoc
+    - pandoc
     - markdown
     - superscript
     - latex

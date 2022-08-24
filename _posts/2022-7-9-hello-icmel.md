@@ -7,7 +7,7 @@ tags: [prediction, simulation, materials discovery, materials advancement, cross
 mermaid: true
 pin: true
 image:
-   path: /img/icmeLAB.pdf
+   path: /img/icmeLAB.jpg
    width: 800
    height: 200
    alt: 

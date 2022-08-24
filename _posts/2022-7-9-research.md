@@ -5,6 +5,7 @@ date: 2022-07-09 16:00:00 -0500
 categories: [Research, Publications]
 tags: [materials design, ab initio prediction, crystal structure prediction, multiscale simulation, characterization, defects, PV, PEC, growth conditions, phase-stability, chemical potential landscape, entropy-forming ability, high-entropy ceramics, antibiofouling, zwitterions, hydration, pTMAO, protein corona, nanoparticle-protein interaction, 2D-chiral hybrid perovskites, Rashba-Dresselhaus spin-splitting, chirality transfer, spin-orbit coupling]
 math: true
+iis_slider_active: true
 image:
   path: 
   width: 
