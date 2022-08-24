@@ -27,7 +27,7 @@ jobs:
 
       - uses: docker://pandoc/latex:2.17
         with:
-        args: "--help" # gets appended to pandoc command
+          args: "--help" # gets appended to pandoc command
 
       - name: Build
         run: bundle exec ruby build.rb    
