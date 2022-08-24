@@ -25,9 +25,12 @@ jobs:
           ruby-version: '3.0'
           bundler-cache: true
 
-      - uses: docker://pandoc/core:2.17
+      - uses: actions/checkout@master #docker://pandoc/core:2.17
+      - uses: nikeee/setup-pandoc@v1
         with:
+          pandoc-version: '2.17' # The pandoc version to download (if necessary) and use.
           args: "--help" # gets appended to pandoc command
+      - run: echo "# Test" | pandoc -t html
 
       - name: Deploy
         run: bash tools/deploy.sh
