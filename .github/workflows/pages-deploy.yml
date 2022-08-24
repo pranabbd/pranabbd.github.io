@@ -28,9 +28,5 @@ jobs:
       - name: Build
         run: bundle exec ruby build.rb    
 
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: "--help" # gets appended to pandoc command
-
       - name: Deploy
         run: bash tools/deploy.sh
