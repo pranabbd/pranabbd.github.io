@@ -32,7 +32,6 @@ jobs:
         with:
           args: "--help" # gets appended to pandoc command
 
-          - uses: docker://pandoc/core:2.9   
     - name: Build
       run: bundle exec ruby build.rb    
 
