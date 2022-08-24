@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: bundle install
       - name: Build  
-        run: bundle exec ruby build.rb    
+        run: bundle exec ruby rake    
 
       - uses: docker://pandoc/latex:2.17
         with:
