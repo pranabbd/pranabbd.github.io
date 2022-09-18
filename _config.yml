@@ -21,7 +21,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sarker's Materials Simulation Lab                          # the main title
+title: Sarker Lab                          # the main title
 
 tagline: An Integrated Computional Materials Engineering Framework  # it will display as the sub-title
 
