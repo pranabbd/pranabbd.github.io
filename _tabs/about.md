@@ -5,12 +5,19 @@ order: 4
 iis_slider_active: true
 ---
 
-First and foremost, I am a computational materials scientist, and multiscale simulation is my research tool. Using the tool, I both design and characterize materials. My research covers various topics, ranging from solar energy conversion (PV and PEC) and ultra-high temperature ceramics (UHTCs) to bio-nano interface and antibiofouling coating. Multinary-oxides and chalcogenides, high-entropy ceramics, zwitterionic polymers, and 2D-hybrid perovskites are my current interests. Please click ```Research``` below to explore my research in detail.
+First and foremost, I am a computational materials scientist. Multiscale simulation is my research tool with which I design and characterize materials. My current research is multi/crossdisciplinary, ranging from solids to biopolymers and bio-nano interface. Antibiofouling zwitterionic polymers, protein-nanoparticle interaction, 2D-chiral hybrid perovskites, multinary-oxides and chalcogenides-based PV/PEC solar absorbers, and high-entropy materials-based ultra-high temperature ceramics (UHTCs) are the topics of my current focus. Below are my research vision, interests, and highlights. Explore more on ```Research```.
 
-[**Welcome**](https://pranabbd.github.io/posts/hello-icmel/) | [**Research**](https://pranabbd.github.io/posts/research/) | [**Publications**](https://pranabbd.github.io/posts/publications/) | [**Codes**](https://pranabbd.github.io/posts/codes/) | [**CV**](/cv_ps.pdf) | [**Resume**](/resume_ps.pdf)
+[**Welcome**](https://pranabbd.github.io/posts/hello-icmel/) | [**Research**](https://pranabbd.github.io/posts/research/) | [**Publications**](https://pranabbd.github.io/posts/publications/) | [**Codes**](https://pranabbd.github.io/posts/codes/) | [**CV**](/cv_ps.pdf)
 
 {% slider %}
-  ![alt text 1](/img/1.jpg)
+  ![alt text 1](/img/about/rv2.jpg)
+  ![alt text 2](/img/about/ri.jpg)
+{% endslider %}
+
+[**Research Highlights**]
+
+{% slider %}
+  ![alt text 1](/img/about/1.jpg)
   ![alt text 2](/img/about/2.jpg)
   ![alt text 3](/img/about/3.jpg)
   ![alt text 3](/img/about/4.jpg)
