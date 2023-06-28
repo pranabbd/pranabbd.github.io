@@ -1,5 +1,5 @@
 ---
-title: Welcome to Materials Simulation Lab
+title: Welcome
 author: Pranab Sarker
 date: 2022-07-09 13:00:00 +0800
 categories: [Research]
@@ -7,11 +7,10 @@ tags: [prediction, simulation, materials discovery, materials advancement, cross
 mermaid: true
 pin: true
 image:
-   path: /img/icmeLAB.jpg
+   path: /img/myResearch.jpg
    width: 800
    height: 200
    alt: 
 ---
 
-Welcome to my multiscale simulation lab, an Integrated Computational Materials Engineering Framework (ICMEF), with the vision of facilitating the faster development of novel materials. Through the ICMEF, my lab focuses on materials discovery and advancement via ab initio materials design and multiscale characterization. My multiscale characterization aims at understanding the cross-disciplinary science of materials at macroscopic (technological interest) and microscopic (the underlying interactions in the system) levels.
-
+Welcome to my computational materials research blog, and thank you for stopping by. Through this site, I take the opportunity to share my research vision, interest, and accomplishments with you. I am passionate about learning the underlying physics in materials and materials chemistry in different chemical/biological environments with the help of multiscale simulation. Stemmed from my passion, my research revolves around guiding accelerated novel materials discovery via ab initio rational/high-throughput materials design and materials advancement via multiscale modeling.
