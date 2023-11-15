@@ -5,7 +5,7 @@ order: 4
 iis_slider_active: true
 ---
 
-First and foremost, I am a computational materials scientist. Multiscale simulation is my research tool with which I design and characterize materials. Currently, I am a postdoc with multi/crossdisciplinary research expertise—my areas of research interest range from solids to biopolymers and bio-nano interface. Antibiofouling zwitterionic polymers, protein-nanoparticle interaction, 2D-chiral hybrid perovskites, multinary-oxides/chalcogenides-based PV/PEC solar absorbers, and high-entropy ceramics are my current focus. Below are my research vision, interests, and highlights. Explore more on ```Research```.
+First and foremost, I am a computational materials scientist. Multiscale simulation is my research tool with which I design and characterize materials. My current research is at the crossroads between multidisciplinary and cross-disciplinary research, with the areas of interest ranging from solids to biopolymers and bio-nano interface. Antibiofouling zwitterionic polymers, protein-nanoparticle interaction, 2D-chiral hybrid perovskites, multinary-oxides/chalcogenides-based PV/PEC solar absorbers, and high-entropy ceramics are my current focus. Below are my research vision, interests, and highlights. Explore more on ```Research```.
 
 [**Welcome**](https://pranabbd.github.io/posts/hello-icmel/) | [**Research**](https://pranabbd.github.io/posts/research/) | [**Publications**](https://pranabbd.github.io/posts/publications/) | [**Codes**](https://pranabbd.github.io/posts/codes/) | [**CV**](/cv_ps.pdf)
 
