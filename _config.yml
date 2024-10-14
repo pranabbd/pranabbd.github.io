@@ -23,7 +23,7 @@ timezone: America/New_York
 
 title: Sarker's Computational Materials Research                          # the main title
 
-tagline: Design and characterize materials for biomedical & marine, spintronics, structural, and energy applications  # it will display as the sub-title
+tagline: Design and characterize materials for biomedical & marine, chiroptical, structural, and energy applications  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
