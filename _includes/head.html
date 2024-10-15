@@ -63,10 +63,10 @@
 
   {% else %}
 
-    {% for cdn in site.data.assets[origin].cdns %}
-      <link rel="preconnect" href="{{ cdn.url }}" {{ cdn.args }}>
-      <link rel="dns-prefetch" href="{{ cdn.url }}" {{ cdn.args }}>
-    {% endfor %}
+  {% for cdn in site.data.assets[origin].cdns %}
+  <link rel="preconnect" href="{{ cdn.url }}" {{ cdn.args }}>
+  <link rel="dns-prefetch" href="{{ cdn.url }}" {{ cdn.args }}>
+{% endfor %}
 
     <link rel="stylesheet" href="{{ site.data.assets[origin].webfonts | relative_url }}">
 
@@ -116,7 +116,7 @@
   
   {% if page.iis_slider_active %}
     <!-- Slider CSS -->
-    <link rel="stylesheet" href="{{ /slider/ideal-image-slider.css" | relative_url }}>
-    <link rel="stylesheet" href="{{ /slider/themes/default/default.css" | relative_url }}>
+    <link rel="stylesheet" href="{{ /slider/ideal-image-slider.css | relative_url }}">
+    <link rel="stylesheet" href="{{ /slider/themes/default/default.css | relative_url }}">
   {% endif %}
 </head>
