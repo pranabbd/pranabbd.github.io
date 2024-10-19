@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 iis_slider_active: true
 ---
-First and foremost, I am a computational materials scientist interested in interdisciplinary materials research. I design materials and study materials properties across different time and length scales. My research is at the crossroads of physics, chemical engineering, and materials science, with the areas of interest ranging from solid and hybrid materials to biopolymers and bio-nano interfaces.
+I am a computational materials scientist interested in interdisciplinary materials research. I design materials and study materials properties across different time and length scales. My research is at the crossroads of physics, chemical engineering, and materials science, with the areas of interest ranging from solid and hybrid materials to biopolymers and bio-nano interfaces.
 
 
 [**Welcome**](https://pranabbd.github.io/posts/hello-icmel/) | [**Research**](https://pranabbd.github.io/posts/research/) | [**Publications**](https://pranabbd.github.io/posts/publications/) | [**Codes**](https://pranabbd.github.io/posts/codes/) | [**CV**](/cv_ps.pdf)
