@@ -7,11 +7,11 @@ tags: [prediction, simulation]
 math: true
 ---
 
-## ```Refereed research papers```
+Refereed research papers
 {% bibliography --file peer_rev_papers %}
 
-## ```Refereed conference proceedings```
+Refereed conference proceedings
 {% bibliography --file confer_papers %}
 
-## ```Unpublished working papers```
+Unpublished working papers
 {% bibliography --file in_prog_papers %}
