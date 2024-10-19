@@ -23,5 +23,4 @@ I am a computational materials scientist interested in interdisciplinary materia
   ![alt text 3](/img/about/rh_cross.jpg)
   ![alt text 3](/img/about/rh_prot_np.jpg)
   ![alt text 3](/img/about/rh_chem_pot.jpg)
-
 {% endslider %}
