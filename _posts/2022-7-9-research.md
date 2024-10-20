@@ -60,7 +60,6 @@ Materials' phase stabilities and properties vary with the synthesis conditions. 
 - **What are the optimal growth conditions and alloy composition of high-efficient CZTSSe?** The Se-alloy of CZTS, CZTSSe, the Se-alloy of CZTS, is also a promising PV candidate and exhibits better PV performance than its parent compound. Its performance still falls short of currently commercialized PVs, which are either costly or toxic. The main limitation in enhancing CZTSSe's PV efficiency is the lack of known optimal growth conditions that maximize its phase stability and minimizes the presence of unwanted defects in the sample. Moreover, the effective alloy ratio of S and Se is still debatable. My  CZTSSe work addresses these issues (Figure 5), for which I have employed the CPL analysis. I have developed an open-source python code to ease the scan of thermodynamic growth conditions in the CPL analysis of a multi-cation-anion system like CZTSSe.
 
 ![Figure 6](/img/9.jpg)
-![Figure 6]()
 
 ```Role of Defects on``` Cu$$_2$$BiO$$_4$$``` and ```$$\alpha-$$SnWO$$_4$$```'s solar-to-hydrogen efficiency```
 Cu$$_2$$BiO$$_4$$ and $$\alpha-$$SnWO$$_4$$ are promising PEC materials. However, their PEC performances are not up to the task. My DFT investigation provides insights into their performance-limiting factors. A Cu-vacancy (V$$_{\rm Cu}$$) in Cu$$_2$$BiO$$_4$$ is found to introduce a Cu 3$$d$$ defect state near the conduction band (CB) edge, which traps photoelectrons, causing the reductive photocorrosion of CuBi$$_2$$O$$_4$$ (Figure 6a). In the case of $$\alpha-$$SnWO$$_4$$, a deep localized hole state due to an Sn$$_{\rm W}$$ (Sn$$^{4+}$$ at W$$^{5+}$$-site) defect is identified as the source for the reduced photocurrent generation in $$\alpha-$$SnWO$$_4$$ (Figure 6b). ```Note```: This research was supported by NSF and DOE.
@@ -72,6 +71,7 @@ Cu$$_2$$BiO$$_4$$ and $$\alpha-$$SnWO$$_4$$ are promising PEC materials. However
 ![Figure 7](/img/6.jpg)
 ![Figure 8](/img/7.jpg)
 ![Figure 9](/img/8.jpg)
+![Figure 10](/img/11.jpg)
 {% endslider %}
 ![]()
 
@@ -87,8 +87,7 @@ Trimethylamine N-oxide (TMAO) is a naturally-occurring zwitterionic biopolymer f
 - **Why is TMAO superior to CBAAs?**  Carboxybetaine acrylamides (CBAAs) have non-zero spacing, i.e., their oppositely-charged moieties are separated by a spacer, unlike TMAO. Their antibiofouling performance is not comparable to that of TMAO and decreases as the size of the spacer increases. How the size of the spacer controls their hydration and antibiofouling is still unknown. My unpublished work elucidates the role of spacer on zwitterionic hydration, providing the answer for TMAO's superiority over CBAAs as an antibiofouling material.
 
 ### Inorganic-Organic Hybrid Materials
-![Figure 10](/img/10.jpg)
-![Figure 10]()
+![Figure 11](/img/10.jpg)
 
 ```Structure-Property Relationship of 2D-chiral-hybrid Perovskites```
 
