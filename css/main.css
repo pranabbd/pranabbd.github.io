@@ -1,0 +1,19 @@
+/* Bibliography */
+
+ol.bibliography {
+    counter-reset: item
+  }
+  
+  ol.bibliography li {
+    list-style-type: none;
+    margin: 30px 0;
+  }
+  
+  ol.bibliography li:before {
+    content: "[" counter(item) "] ";
+    counter-increment: item;
+    position: absolute;
+    text-align: right;
+    width: 4em;
+    margin-left: -4.4em;
+  }
