@@ -9,11 +9,6 @@ I am a computational materials scientist interested in interdisciplinary materia
 
 [**Welcome**](https://pranabbd.github.io/posts/hello-icmel/) | [**Research**](https://pranabbd.github.io/posts/research/) | [**Publications**](https://pranabbd.github.io/posts/publications/) | [**Codes**](https://pranabbd.github.io/posts/codes/) | [**CV**](/cv_ps.pdf)
 
-{% slider %}
-  ![alt text 1](/img/about/rv_ri.jpg)
-{% endslider %}
-
-
 # Research Highlights
 
 {% slider %}

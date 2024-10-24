@@ -66,7 +66,7 @@ Cu$$_2$$BiO$$_4$$ and $$\alpha-$$SnWO$$_4$$ are promising PEC materials. However
 
 ```Mechanical Properties of HECs```  HECs exhibit enhanced mechanical properties compared to their ordered binary/ternary counterparts. For example, their Vickers hardness is up to 50$$\%$$ higher than predicted by a rule of mixtures (ROM) of the binary carbides (Figure 6c). Thus, they are potential candidates for industrial uses, e.g., machinery cutting tools, wear-resistant impactors, and structural and extreme temperature applications. I have characterized their elastic properties and Vickers hardness using AFLOW-AEL $${\it ab~initio}$$ high-throughput framework. ```Note```: This research was supported by DOD-ONR.
 
-### Organic Materials
+### Protein-Nanoparticle/Surface Interaction and Zwitterionic Biomaterials
 {% slider height 325 captions %}
 ![Figure 7](/img/6.jpg)
 ![Figure 8](/img/7.jpg)
